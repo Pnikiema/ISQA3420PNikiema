@@ -17,3 +17,5 @@ Manager submits request to developer to upload open source package for license a
 Main Success Scenario: Developer collects relevant package and submits for license and vulnerability scan.
 
 Failed End Conditions: Developer is unable to submit package, or submits a package that does not have any license or vulnerability information
+
+Trigger: Manager requests open software package to be submitted for license and vulnerability inquiry
