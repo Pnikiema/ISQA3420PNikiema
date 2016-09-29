@@ -1,4 +1,4 @@
-Use Case #3
+Use Case #3 
 
 Title: Receive results from software project inquiry
 
