@@ -12,7 +12,7 @@ The deliverables for the first assignment are:
 - Three Use Cases
 - Overall GitHub Repository Design and Use
 
-Besides having the above deliverables, my GitHub repository must have at leaset40 commits and 20 closed issues.
+Besides having the above deliverables, my GitHub repository must have at leaset40 commits and 20 closed issues. 
 
 Things are going well so far.
 
