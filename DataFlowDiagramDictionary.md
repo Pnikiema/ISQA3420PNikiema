@@ -1,29 +1,15 @@
-Developer: 
+Developer: Someone who can submit open source packages and receive responses regarding the open source components, the related open source licenses, and published software vulnerabilities. A developer is also someone who can submit a project request.
 
-Manage Software Package for License and Vulnerability Scanning: 
+Manager: Someone who can submit or modify policy documents, submit a project request, or receive responses regarding the open source components, the related open source licenses, and published software vulnerabilities. 
 
-Scan for Licenses and Vulnerabilities: 
+Software Package: An assemblage of files and information about a given software.
 
-Policy Document: 
+License: Legal document governing the use or redistribution of software.
 
-Manager: 
+Vulnerability: A weakness that allows an attacker to reduce a system's information assurance.
 
-Database Query: 
+Policy Document: A system that highlights software packages that violate license or vulnerability requirements.
 
-Software Package License and Vulnerabilities Results: 
+Datastore: A collection of information of given software that is organized so that it can easily be accessed, managed, and updated.
 
-Software Packages Submission: 
-
-Software Package License and Vulnerabilities Request: 
-
-Software Package License and Vulnerabilities Results: 
-
-OSS Package Datastore: 
-
-Policy Document Request: 
-
-Policy Document Response: 
-
-Policy Datastore: 
-
-Policy Document Modification: 
+OSS: Oppen Source Software. 
